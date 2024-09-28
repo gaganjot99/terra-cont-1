@@ -1,0 +1,3 @@
+variable "temp"{
+    default = "something"
+}
